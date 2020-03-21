@@ -1,6 +1,6 @@
 cask 'nxt-fantom-driver' do
   version '1.2.0'
-  sha256 '642d76a58650f0c0d2673be545e03370181c607500f906ec923efceb11831b34'
+  sha256 '0578d0521118131d08683c26c2738be9aa33bd50c30ba0743c498c5cea7ef8b0'
 
   url 'https://raw.githubusercontent.com/skifahrer/nxt-fantom-driver/master/nxt-fantom-drivers-120.zip'
   name 'NXT Fantom Drivers'
